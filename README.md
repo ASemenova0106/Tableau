@@ -13,4 +13,5 @@
 <hr>
 
 **Скриншот дашборда в формате .jpg:**
+
 https://github.com/ASemenova0106/Tableau/blob/main/Dashboard.jpg
